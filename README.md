@@ -14,4 +14,4 @@ This project involves building a machine learning model to classify emotions exp
 - Emotion classification using machine learning models
 - Model evaluation using accuracy, precision, recall, and F1-score
 ## 📈 Results
-The best-performing model achieved an accuracy of XX% on the validation set.
+The best-performing model achieved an accuracy of 89% on the validation set.
